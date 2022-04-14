@@ -10,7 +10,7 @@ This device was made to explore musical possibilities of Arduino and bring creat
 
 Also it can be controlled with MIDI signals from PC with DIN 5 port and Dip Switches (MIDI channel selector).
 
-Small Dip Switch on the front panel selects wether synthesizer will be waiting for MIDI notes or it will be playing note, according to scale knob, constantly.
+Small Dip Switch on the front panel selects wether synthesizer will be waiting for MIDI notes or playing note constantly according to scale knob position.
 
 ### About granular synthesis
 
