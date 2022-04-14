@@ -1,5 +1,5 @@
 # Granular Synthesizer (Granny Synth)
-_Summer Practice project for SPbSTU at 2 year._
+_Summer Practice project for SPbSTU during 2nd year._
 
 ## Info
 
