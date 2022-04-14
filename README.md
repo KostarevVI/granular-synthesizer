@@ -1,9 +1,9 @@
-# Granny Synth
+# Granular Synthesizer (Granny Synth)
 _Summer Practice project for SPbSTU at 2 year._
 
 ## Info
 
-This project was made to explore musical possibilities of Arduino and bring creativity/fun to my own music composing experience. Synthesizer has 5 knobs: 
+This device was made to explore musical possibilities of Arduino and bring creativity/fun to my own music composing experience. Synthesizer has 5 knobs: 
 - scale (chose the note to play from major pentatonic scale);
 - 2 oscillator knobs (changing frequency of the grain)
 - 2 filter knobs (changing decay of the grain)
